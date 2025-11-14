@@ -1,0 +1,501 @@
+SL,Category,Job Title,Skills,Experience,Salary,Job Link
+1,Teaching,Lead Teaching,"Express.js, Computer Vision, Angular, Swift",1 year(s),"Tk. 15,000 - 35,000 (Monthly)",https://www.linkedin.com/jobs/view/4334634868
+2,AI Researcher,AI Researcher - Bangladesh Based,"Linux, Terraform, Python, NLP, Spring",3 year(s),"Tk. 30,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4321940745/
+3,QA Engineer,QA Engineer - Dhaka Based,"AWS, Vue.js, Git",3 year(s),"Tk. 50,000 - 60,000 (Monthly)",https://www.linkedin.com/jobs/view/4305196524
+4,Full Stack Developer,Full Stack Developer - Java Developer,"Scikit-learn, HTML, Security, Kubernetes, Spring",1 year(s),"BDT 15,000 - 25,000 (Monthly)",https://www.linkedin.com/jobs/view/4321726532
+5,Backend Developer,Senior Backend Developer,"Bash, Flask, Linux, SQL",4 year(s),"৳50,000 - ৳60,000 per month",https://www.linkedin.com/jobs/view/4318542882
+6,Data Scientist,Contract Data Scientist,"Computer Vision, Selenium, TensorFlow, Azure, Kubernetes",1 year(s),"Tk. 15,000 - 15,000 (Monthly)",https://www.linkedin.com/jobs/view/4315216564
+7,Research Assistant,Research Assistant - Node.js Developer,"Hadoop, Laravel, Git, Python, Swift, iOS",3 year(s),"$82,006-$136,593 USD (Annual)",https://www.linkedin.com/jobs/view/4000000007
+8,Product Engineer,Contract Product Engineer,"Terraform, HTML, MongoDB",4 year(s),"BDT 20,000/month",https://www.linkedin.com/jobs/view/4187113615
+9,QA Engineer,Lead QA Engineer,"Vue.js, iOS, NumPy",4 year(s),"BDT 90,000/month",https://www.linkedin.com/jobs/view/4000000009
+10,DevOps Engineer,DevOps Engineer - Java Developer,"PyTorch, Hadoop, Node.js, PHP, Golang",Fresh / 0-1 year,"Tk. 30,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4303656092
+11,Frontend Developer,Frontend Developer (Remote),"MySQL, TypeScript, NumPy, C++",6 year(s),"BDT 90,000 - 120,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000011
+12,QA Engineer,Senior QA Engineer,"JavaScript, Azure, iOS",6 year(s),"BDT 30,000 - 60,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000012
+13,Product Engineer,Contract Product Engineer,"JavaScript, CSS, CI/CD",3 year(s),"$55,491-$87,289 per year",https://www.linkedin.com/jobs/view/4187113615
+14,Systems Administrator,Senior Systems Administrator,"Laravel, Power BI, Ansible, Scikit-learn, PostgreSQL, TensorFlow",6 year(s),"Tk. 40,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000014
+15,NLP Engineer,Intern NLP Engineer,"Spark, Ansible, Hadoop, Spring, JavaScript, Terraform",Fresh / 0-1 year,"৳15,000 - ৳25,000 per month",https://www.linkedin.com/jobs/view/4000000015
+16,Database Administrator,Intern Database Administrator,"Laravel, C++, TypeScript, Android, SQL",2 year(s),"BDT 40,000/month",https://www.linkedin.com/jobs/view/4000000016
+17,BI Developer,Contract BI Developer,"Express.js, Docker, React, PHP, Kubernetes",2 year(s),"$86,107 per year",https://www.linkedin.com/jobs/view/4000000017
+18,Research Assistant,Research Assistant (Remote),"Computer Vision, Git, Java",3 year(s),"BDT 50,000/month",https://www.linkedin.com/jobs/view/4000000018
+19,Software Developer,Senior Software Developer,"Redis, Tableau, Express.js",5 year(s),"Tk. 90,000 - 120,000 (Monthly)",https://www.linkedin.com/jobs/view/4318542882
+20,AI Researcher,AI Researcher - Flutter Developer,"Flask, MongoDB, Kubernetes, Power BI",2 year(s),"$53,767 per year",https://www.linkedin.com/jobs/view/4332172280
+21,BI Developer,Junior BI Developer,"Django, C#, Computer Vision, Redis, Power BI, GCP",2 year(s),"Tk. 15,000 - 45,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000021
+22,Product Engineer,Lead Product Engineer,"TypeScript, .NET, Azure",1 year(s),"$58,292 per year",https://www.linkedin.com/jobs/view/4315907244
+23,Software Engineer,Intern Software Engineer,"Flask, Angular, REST API, TensorFlow, Docker",0.6 year(s),"BDT 15,000 - 45,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000023
+24,Software Engineer,Software Engineer - Java Developer,"TypeScript, Redis, GraphQL",1 year(s),"$59,681-$136,150 per year",https://www.linkedin.com/jobs/view/4000000024
+25,Computer Vision Engineer,Computer Vision Engineer - Python Developer,"Swift, Computer Vision, C#, GraphQL, Jenkins, MongoDB",1 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/4200272606
+26,Research Assistant,Research Assistant (Remote),"Spark, TypeScript, HTML, GraphQL, Redis",Fresh / 0-1 year,"$55,392-$106,079 USD (Annual)",https://www.linkedin.com/jobs/view/4318542882
+27,Software Developer,Software Developer - Chittagong Based,"HTML, Jenkins, .NET, Android, Kotlin, AWS",1 year(s),"৳10,000 - ৳10,000 per month",https://www.linkedin.com/jobs/view/4000000027
+28,Software Developer,Software Developer - Chittagong Based,"Linux, Scikit-learn, TypeScript, Hadoop",10 year(s),"৳90,000 - ৳120,000 per month",https://www.linkedin.com/jobs/view/4000000028
+29,Product Engineer,Contract Product Engineer,"HTML, PHP, MySQL, PyTorch, React, Android",2 year(s),"BDT 15,000 - 25,000 (Monthly)",https://www.linkedin.com/jobs/view/4318434948
+30,Computer Vision Engineer,Computer Vision Engineer - Node.js Developer,"CI/CD, Scikit-learn, GCP, JavaScript, C++",6 year(s),"$78,278 per year",https://www.linkedin.com/jobs/view/4000000030
+31,QA Engineer,Contract QA Engineer,"NumPy, Golang, MySQL, TensorFlow",2 year(s),"৳70,000 - ৳80,000 per month",https://www.linkedin.com/jobs/view/4000000031
+32,Systems Administrator,Junior Systems Administrator,"C#, JavaScript, Laravel, AWS, SQL, C++",2 year(s),"$64,846-$111,317 per year",https://www.linkedin.com/jobs/view/4000000032
+33,Software Engineer,Lead Software Engineer,"Tableau, CSS, Flask",4 year(s),"BDT 10,000 - 20,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000033
+34,Database Administrator,AI Database Administrator,"REST API, Computer Vision, Android, Node.js",4 year(s),"$47,084-$60,449 per year",https://www.linkedin.com/jobs/view/4000000034
+35,Systems Administrator,Systems Administrator (Remote),"Ansible, Swift, REST API, Linux, Node.js",3 year(s),"Tk. 70,000 - 90,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000035
+36,Software Engineer,Software Engineer - iOS Developer,"HTML, Security, Scikit-learn, Android, Java",3 year(s),"৳40,000 - ৳70,000 per month",https://www.linkedin.com/jobs/view/4000000036
+37,Mobile Developer,Mobile Developer - USA Based,"NLP, Scikit-learn, Jenkins, GraphQL",5 year(s),"৳50,000 - ৳60,000 per month",https://www.linkedin.com/jobs/view/4000000037
+38,Mobile Developer,Contract Mobile Developer,"Vue.js, PHP, iOS, GCP",1 year(s),"Tk. 90,000 - 120,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000038
+39,Systems Administrator,Systems Administrator - Europe Based,"TensorFlow, Computer Vision, Git, Redis, Docker",5 year(s),"BDT 30,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000039
+40,DevOps Engineer,Intern DevOps Engineer,"Angular, Security, .NET, PostgreSQL, Golang",2 year(s),"Tk. 20,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4316917585
+41,Computer Vision Engineer,Senior Computer Vision Engineer,"pandas, PyTorch, Redis, C#, JavaScript",6 year(s),"৳15,000 - ৳45,000 per month",https://www.linkedin.com/jobs/view/4332405524
+42,Data Scientist,Lead Data Scientist,"Git, NLP, GCP",4 year(s),"$64,928-$133,977 per year",https://www.linkedin.com/jobs/view/4338156913
+43,Full Stack Developer,Lead Full Stack Developer,"TypeScript, Vue.js, Spring, PHP, C#",4 year(s),"BDT 90,000/month",https://www.linkedin.com/jobs/view/4321726532
+44,Computer Vision Engineer,Lead Computer Vision Engineer,"Power BI, HTML, Selenium, TypeScript, Linux",9 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/4000000044
+45,Machine Learning Engineer,Machine Learning Engineer (Remote),"Kotlin, MongoDB, Terraform, Azure, MySQL, Spark",6 year(s),"BDT 10,000/month",https://www.linkedin.com/jobs/view/4000000045
+46,Web Developer,Intern Web Developer,"NLP, C#, pandas",1 year(s),"$51,894 per year",https://www.linkedin.com/jobs/view/4000000046
+47,QA Engineer,QA Engineer (Remote),"Redis, GCP, Kotlin, NumPy",2 year(s),"$76,051-$90,860 per year",https://www.linkedin.com/jobs/view/4000000047
+48,Mobile Developer,Contract Mobile Developer,"GCP, JavaScript, .NET, Hadoop, Kubernetes, GraphQL",6 year(s),"$53,340 per year",https://www.linkedin.com/jobs/view/4000000048
+49,Computer Vision Engineer,Intern Computer Vision Engineer,"Android, Spring, MongoDB, Git",Fresh / 0-1 year,"৳30,000 - ৳30,000 per month",https://www.linkedin.com/jobs/view/4000000049
+50,Security Engineer,Security Engineer - Worldwide Based,"PHP, Scikit-learn, Git, Java, AWS, .NET",4 year(s),"$48,946-$68,096 per year",https://www.linkedin.com/jobs/view/4315216564
+51,Software Engineer,Junior Software Engineer,"CI/CD, pandas, Docker, Redis, Git, NLP",2 year(s),"$52,363 per year",https://www.linkedin.com/jobs/view/4000000051
+52,Software Developer,Software Developer - iOS Developer,"NumPy, Flask, Express.js, Spark",8 year(s),"$68,855 per year",https://www.linkedin.com/jobs/view/4000000052
+53,IT Support,IT Support - Mobile,"GraphQL, Kotlin, Azure, CSS, Vue.js",12 year(s),"৳70,000 - ৳90,000 per month",https://www.linkedin.com/jobs/view/4000000053
+54,Frontend Developer,Frontend Developer - Java Developer,"NLP, HTML, Android",9 year(s),"Tk. 40,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000054
+55,QA Engineer,Lead QA Engineer,"Jenkins, Swift, Power BI, C#, Spring, Bash",Fresh / 0-1 year,"$80,613-$122,179 per year",https://www.linkedin.com/jobs/view/4000000055
+56,Product Engineer,Senior Product Engineer,"PostgreSQL, Swift, CI/CD, Spring, React, PyTorch",10 year(s),"৳70,000 - ৳90,000 per month",https://www.linkedin.com/jobs/view/4315907244
+57,Security Engineer,Intern Security Engineer,"Jenkins, PostgreSQL, Kotlin, Django, Security",5 year(s),"BDT 100,000/month",https://www.linkedin.com/jobs/view/4000000057
+58,Frontend Developer,Frontend Developer (Remote),"MongoDB, Power BI, PyTorch",Fresh / 0-1 year,"BDT 20,000/month",https://www.linkedin.com/jobs/view/4000000058
+59,Machine Learning Engineer,Contract Machine Learning Engineer,"Security, Spring, Laravel, Bash, pandas",8 year(s),"$62,198-$87,293 per year",https://www.linkedin.com/jobs/view/4000000059
+60,Research Assistant,Research Assistant - Flutter Developer,"Laravel, CI/CD, Node.js",3 year(s),"$57,181 per year",https://www.linkedin.com/jobs/view/4000000060
+61,Security Engineer,Security Engineer (Remote),"Kotlin, MongoDB, CSS, GCP, Node.js, Express.js",Fresh / 0-1 year,"Tk. 90,000 - 90,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000061
+62,Systems Administrator,Intern Systems Administrator,"GCP, CSS, Angular, Security",2 year(s),"$58,333 per year",https://www.linkedin.com/jobs/view/4000000062
+63,Product Engineer,AI Product Engineer,"JavaScript, Azure, MySQL, .NET, Node.js",12 year(s),"Tk. 130,000 - 300,000 (Monthly)",https://www.linkedin.com/jobs/view/4315212392
+64,Database Administrator,Intern Database Administrator,"Bash, Terraform, Golang, Redis",3 year(s),"BDT 20,000/month",https://www.linkedin.com/jobs/view/4315216564
+65,Data Scientist,Intern Data Scientist,"Django, C#, Laravel, JavaScript, Express.js",3 year(s),"$71,211-$139,967 per year",https://www.linkedin.com/jobs/view/4000000065
+66,Product Engineer,Contract Product Engineer,"Scikit-learn, CSS, Django, JavaScript, pandas",6 year(s),"Tk. 90,000 - 120,000 (Monthly)",https://www.linkedin.com/jobs/view/4318434948
+67,Web Developer,Web Developer - PHP Developer,"Scikit-learn, Spark, REST API, TensorFlow, Angular",3 year(s),"$82,658-$120,841 per year",https://www.linkedin.com/jobs/view/4000000067
+68,Mobile Developer,Mobile Developer (Remote),"TensorFlow, SQL, TypeScript, Laravel, Kubernetes",11 year(s),"$44,399-$66,356 USD (Annual)",https://www.linkedin.com/jobs/view/4000000068
+69,NLP Engineer,Intern NLP Engineer,"TypeScript, Node.js, GCP, Docker, Terraform",1 year(s),"$87,255-$103,998 per year",https://www.linkedin.com/jobs/view/4000000069
+70,Data Analyst,Data Analyst - Remote Based,"Ansible, Angular, Docker, Git",2 year(s),"BDT 70,000/month",https://www.linkedin.com/jobs/view/4338156913
+71,Computer Vision Engineer,Senior Computer Vision Engineer,"Terraform, Java, Jenkins, TypeScript",6 year(s),"$42,009 per year",https://www.linkedin.com/jobs/view/4000000071
+72,IT Support,Security IT Support,"iOS, SQL, Tableau, Jenkins, REST API",Fresh / 0-1 year,"Tk. 20,000 - 20,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000072
+73,Security Engineer,Lead Security Engineer,"Docker, TensorFlow, Node.js",3 year(s),"BDT 40,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000073
+74,Software Engineer,Junior Software Engineer,"PostgreSQL, SQL, Node.js, Python, NumPy",2 year(s),"Tk. 30,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000074
+75,IT Support,Backend IT Support,"Jenkins, Azure, Android, HTML, GCP, PostgreSQL",1 year(s),"$51,263 per year",https://www.linkedin.com/jobs/view/4000000075
+76,Data Analyst,Contract Data Analyst,"Azure, Terraform, MongoDB",4 year(s),"Tk. 20,000 - 20,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000076
+77,QA Engineer,QA Engineer (Remote),"Laravel, .NET, C#, REST API",3 year(s),"৳90,000 - ৳120,000 per month",https://www.linkedin.com/jobs/view/4000000077
+78,Teaching,Teaching (Remote),"PyTorch, HTML, MongoDB, Power BI, MySQL, Selenium",Fresh / 0-1 year,"৳40,000 - ৳70,000 per month",https://www.linkedin.com/jobs/view/4000000078
+79,Full Stack Developer,Full Stack Developer - Worldwide Based,"PyTorch, Linux, Jenkins",5 year(s),"৳20,000 - ৳20,000 per month",https://www.linkedin.com/jobs/view/4321726532
+80,Cloud Engineer,Cloud Engineer - Bangladesh Based,"Hadoop, Terraform, GraphQL, Spring, Kubernetes, Linux",9 year(s),"BDT 50,000/month",https://www.linkedin.com/jobs/view/4000000080
+81,AI Researcher,Intern AI Researcher,"Redis, Vue.js, Selenium, TypeScript",2 year(s),"Tk. 70,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000081
+82,Teaching,Teaching - Python Developer,"Django, Kubernetes, MongoDB, C#, C++",2 year(s),"Tk. 20,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000082
+83,Research Assistant,Junior Research Assistant,"C#, Security, Kotlin, Tableau",2 year(s),"$42,863-$106,715 per year",https://www.linkedin.com/jobs/view/4000000083
+84,NLP Engineer,NLP Engineer - Security,"Security, .NET, Kubernetes, Swift, Jenkins, PyTorch",2 year(s),"$72,958-$152,093 per year",https://www.linkedin.com/jobs/view/4000000084
+85,Backend Developer,Contract Backend Developer,"Android, Ansible, Hadoop",8 year(s),"৳20,000 - ৳40,000 per month",https://www.linkedin.com/jobs/view/4000000085
+86,Web Developer,Senior Web Developer,"JavaScript, Azure, Spark, Kubernetes, PHP, AWS",8 year(s),"BDT 50,000/month",https://www.linkedin.com/jobs/view/4000000086
+87,Full Stack Developer,Full Stack Developer - India Based,"Vue.js, Django, Laravel",1 year(s),"BDT 70,000/month",https://www.linkedin.com/jobs/view/4337410751
+88,Software Developer,Software Developer (Remote),"Security, NumPy, REST API",4 year(s),"$59,088-$125,349 USD (Annual)",https://www.linkedin.com/jobs/view/4000000088
+89,Database Administrator,Contract Database Administrator,"React, Hadoop, CI/CD, Spark, Power BI",10 year(s),"৳90,000 - ৳90,000 per month",https://www.linkedin.com/jobs/view/4000000089
+90,QA Engineer,QA Engineer (Remote),"Express.js, Flask, Docker, CI/CD, Redis",4 year(s),"$84,871 per year",https://www.linkedin.com/jobs/view/4000000090
+91,Data Scientist,Data Scientist - Frontend,"Flask, Power BI, .NET, SQL",10 year(s),"Tk. 90,000 - 110,000 (Monthly)",https://www.linkedin.com/jobs/view/4332405524
+92,Software Developer,Platform Software Developer,"Azure, Computer Vision, PyTorch, AWS, Redis, C#",2 year(s),"৳40,000 - ৳40,000 per month",https://www.linkedin.com/jobs/view/4000000092
+93,AI Researcher,AI Researcher (Remote),"TypeScript, PostgreSQL, MongoDB, PyTorch, REST API",4 year(s),"Tk. 50,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000093
+94,Backend Developer,Backend Backend Developer,"Django, Java, Ansible, REST API",6 year(s),"BDT 15,000/month",https://www.linkedin.com/jobs/view/4000000094
+95,BI Developer,Mobile BI Developer,"NLP, React, Jenkins, Express.js, Hadoop, Kubernetes",3 year(s),"BDT 15,000 - 15,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000095
+96,AI Researcher,AI Researcher - USA Based,"GraphQL, PostgreSQL, Kotlin, NumPy",1 year(s),"$69,625 per year",https://www.linkedin.com/jobs/view/4000000096
+97,Research Assistant,Research Assistant - Platform,"Android, Kotlin, HTML, C#",4 year(s),"BDT 30,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000097
+98,AI Researcher,Intern AI Researcher,"React, MongoDB, Azure",11 year(s),"Tk. 70,000 - 100,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000098
+99,Product Engineer,Contract Product Engineer,"Tableau, Express.js, TensorFlow, Spark",6 year(s),"$73,954-$104,010 per year",https://www.linkedin.com/jobs/view/4000000099
+100,Computer Vision Engineer,Computer Vision Engineer (Remote),".NET, HTML, Git, MySQL, Express.js",3 year(s),"BDT 20,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000100
+101,Database Administrator,Senior Database Administrator,"CSS, C++, Tableau, Jenkins, GCP",3 year(s),"৳40,000 - ৳60,000 per month",https://www.linkedin.com/jobs/view/4000000101
+102,Full Stack Developer,Junior Full Stack Developer,"GCP, pandas, Scikit-learn, C++, Redis, REST API",2 year(s),"BDT 50,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/4337410751
+103,Mobile Developer,Mobile Developer - AI,"PHP, Java, Angular, JavaScript, PostgreSQL, AWS",9 year(s),"BDT 20,000/month",https://www.linkedin.com/jobs/view/4000000103
+104,Cloud Engineer,Cloud Engineer - USA Based,"Vue.js, Azure, Spark",1 year(s),"Tk. 50,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000104
+105,Full Stack Developer,Full Stack Developer - React Developer,"Laravel, iOS, Kubernetes, NLP",1 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/4000000105
+106,AI Researcher,AI Researcher (Remote),"Kubernetes, Power BI, Redis, Git, Terraform, NLP",3 year(s),"Tk. 10,000 - 10,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000106
+107,Security Engineer,Intern Security Engineer,"SQL, GraphQL, Spring, Azure",1 year(s),"$78,910 per year",https://www.linkedin.com/jobs/view/4000000107
+108,Computer Vision Engineer,Data Computer Vision Engineer,"Swift, Node.js, GCP, Selenium, MongoDB",3 year(s),"Tk. 40,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000108
+109,Cloud Engineer,Senior Cloud Engineer,".NET, Django, PyTorch",6 year(s),"৳30,000 - ৳60,000 per month",https://www.linkedin.com/jobs/view/4000000109
+110,Cloud Engineer,Contract Cloud Engineer,"SQL, C#, Scikit-learn, CI/CD, Redis, Bash",3 year(s),"BDT 40,000 - 70,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000110
+111,Frontend Developer,Frontend Developer - Bangladesh Based,"pandas, Docker, Git, Power BI, iOS",1 year(s),"BDT 70,000/month",https://www.linkedin.com/jobs/view/4000000111
+112,Full Stack Developer,Full Stack Developer - Frontend,"C++, .NET, Bash, CI/CD, MySQL, Git",4 year(s),"Tk. 30,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000112
+113,Software Developer,Software Developer - Europe Based,"Swift, Tableau, Express.js",Fresh / 0-1 year,"৳20,000 - ৳50,000 per month",https://www.linkedin.com/jobs/view/4000000113
+114,Full Stack Developer,Full Stack Developer (Remote),"CI/CD, Computer Vision, iOS, Ansible",7 year(s),"৳20,000 - ৳20,000 per month",https://www.linkedin.com/jobs/view/4000000114
+115,Software Developer,Backend Software Developer,"Scikit-learn, CSS, CI/CD, Hadoop, NumPy",7 year(s),"$70,672-$116,433 USD (Annual)",https://www.linkedin.com/jobs/view/4000000115
+116,NLP Engineer,Senior NLP Engineer,"Power BI, PostgreSQL, Jenkins, Swift, NLP",3 year(s),"$66,574 per year",https://www.linkedin.com/jobs/view/4000000116
+117,Research Assistant,Research Assistant - Remote Based,"PHP, Python, Laravel, AWS, PyTorch",5 year(s),"BDT 10,000/month",https://www.linkedin.com/jobs/view/4000000117
+118,Product Engineer,Contract Product Engineer,"Kotlin, Node.js, HTML, PostgreSQL, Kubernetes",4 year(s),"$71,338-$101,416 per year",https://www.linkedin.com/jobs/view/4000000118
+119,Computer Vision Engineer,Lead Computer Vision Engineer,"Hadoop, PyTorch, Android",3 year(s),"BDT 30,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000119
+120,Data Analyst,Contract Data Analyst,"Linux, JavaScript, Scikit-learn, Express.js, Spark, GCP",1 year(s),"৳40,000 - ৳40,000 per month",https://www.linkedin.com/jobs/view/4332405524
+121,Database Administrator,Frontend Database Administrator,"CI/CD, JavaScript, React",9 year(s),"BDT 70,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000121
+122,Product Engineer,Contract Product Engineer,"CSS, Terraform, Docker, Node.js",3 year(s),"Tk. 20,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000122
+123,Research Assistant,Lead Research Assistant,"Scikit-learn, Docker, Java, MySQL",3 year(s),"$42,111 per year",https://www.linkedin.com/jobs/view/4000000123
+124,Web Developer,Intern Web Developer,"PHP, Computer Vision, Flask",1 year(s),"BDT 10,000/month",https://www.linkedin.com/jobs/view/4000000124
+125,Database Administrator,Junior Database Administrator,"GCP, MongoDB, MySQL, JavaScript",2 year(s),"Tk. 70,000 - 100,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000125
+126,Cloud Engineer,Junior Cloud Engineer,"AWS, C#, NLP, CI/CD, pandas",1 year(s),"Tk. 20,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000126
+127,AI Researcher,Lead AI Researcher,"C++, Redis, CSS, Vue.js, PyTorch",3 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/4000000127
+128,Web Developer,Lead Web Developer,"MongoDB, Python, C++, .NET, Computer Vision",2 year(s),"$85,588-$122,393 per year",https://www.linkedin.com/jobs/view/4000000128
+129,Full Stack Developer,Full Stack Developer - Cloud,"Kubernetes, Spark, NumPy, Scikit-learn, Angular",6 year(s),"$60,986-$97,610 per year",https://www.linkedin.com/jobs/view/4000000129
+130,Database Administrator,Database Administrator - AI,"PostgreSQL, Java, .NET, Redis, Golang, AWS",4 year(s),"৳50,000 - ৳70,000 per month",https://www.linkedin.com/jobs/view/4000000130
+131,NLP Engineer,Contract NLP Engineer,"C#, CI/CD, CSS, JavaScript, Hadoop, Flask",3 year(s),"$83,792-$100,150 USD (Annual)",https://www.linkedin.com/jobs/view/4000000131
+132,Web Developer,Contract Web Developer,"Kubernetes, JavaScript, GraphQL, HTML, TypeScript, Security",11 year(s),"Tk. 10,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000132
+133,AI Researcher,Junior AI Researcher,"Angular, Hadoop, Java",3 year(s),"৳50,000 - ৳70,000 per month",https://www.linkedin.com/jobs/view/4000000133
+134,Product Engineer,Product Engineer (Remote),"Vue.js, Azure, AWS",2 year(s),"Tk. 10,000 - 20,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000134
+135,Database Administrator,Lead Database Administrator,"MySQL, Flask, React, Swift, Terraform, CI/CD",3 year(s),"BDT 50,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000135
+136,Web Developer,Intern Web Developer,"Swift, CI/CD, Redis, AWS, NLP, Computer Vision",1 year(s),"$72,819-$128,151 USD (Annual)",https://www.linkedin.com/jobs/view/4000000136
+137,Web Developer,Senior Web Developer,"Power BI, PyTorch, NumPy, Golang, Docker",6 year(s),"BDT 70,000/month",https://www.linkedin.com/jobs/view/4000000137
+138,Web Developer,Junior Web Developer,"SQL, Kubernetes, Angular, Vue.js, Python, MongoDB",2 year(s),"৳15,000 - ৳25,000 per month",https://www.linkedin.com/jobs/view/4000000138
+139,Data Analyst,Contract Data Analyst,"REST API, Power BI, SQL",6 year(s),"BDT 70,000 - 70,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000139
+140,Research Assistant,Research Assistant - Cloud,"MySQL, NumPy, Java, React, Spring",2 year(s),"BDT 15,000/month",https://www.linkedin.com/jobs/view/4000000140
+141,BI Developer,Junior BI Developer,"Python, Azure, Redis, Security, GraphQL",2 year(s),"BDT 70,000/month",https://www.linkedin.com/jobs/view/4000000141
+142,Security Engineer,Platform Security Engineer,"Computer Vision, Kotlin, HTML, NumPy, Jenkins",5 year(s),"Tk. 70,000 - 90,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000142
+143,Research Assistant,Lead Research Assistant,"Linux, PostgreSQL, Security, Kotlin, React, Power BI",6 year(s),"BDT 40,000/month",https://www.linkedin.com/jobs/view/4000000143
+144,Systems Administrator,Intern Systems Administrator,"CI/CD, Spark, Kotlin, GCP, Terraform, Flask",1 year(s),"$75,186-$96,324 USD (Annual)",https://www.linkedin.com/jobs/view/4000000144
+145,Machine Learning Engineer,Machine Learning Engineer - Android Developer,"Python, Angular, Laravel",3 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/4000000145
+146,QA Engineer,QA Engineer - Backend,"Vue.js, Node.js, Security, iOS, Java, Docker",2 year(s),"$74,151-$147,449 per year",https://www.linkedin.com/jobs/view/4000000146
+147,NLP Engineer,NLP Engineer - Security,"Linux, Android, Node.js",Fresh / 0-1 year,"BDT 15,000 - 25,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000147
+148,Mobile Developer,Lead Mobile Developer,"HTML, C#, Ansible, Terraform, TypeScript, TensorFlow",3 year(s),"৳30,000 - ৳60,000 per month",https://www.linkedin.com/jobs/view/4000000148
+149,DevOps Engineer,Contract DevOps Engineer,"Kubernetes, SQL, .NET, Scikit-learn",3 year(s),"$74,584 per year",https://www.linkedin.com/jobs/view/4321622737
+150,Database Administrator,Database Administrator - Europe Based,"Bash, Swift, Android, Linux",3 year(s),"Tk. 20,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000150
+151,Machine Learning Engineer,Machine Learning Engineer - Python Developer,"Jenkins, AWS, TensorFlow, C#",3 year(s),"৳20,000 - ৳30,000 per month",https://www.linkedin.com/jobs/view/4000000151
+152,Mobile Developer,Senior Mobile Developer,"Express.js, .NET, Bash, AWS, Git, Spark",6 year(s),"৳70,000 - ৳100,000 per month",https://www.linkedin.com/jobs/view/4000000152
+153,Frontend Developer,Lead Frontend Developer,"Spring, Tableau, Scikit-learn, Jenkins, Computer Vision",6 year(s),"BDT 15,000/month",https://www.linkedin.com/jobs/view/4000000153
+154,NLP Engineer,NLP Engineer (Remote),"MongoDB, Terraform, Flask, PyTorch",1 year(s),"BDT 15,000 - 25,000 (Monthly)",https://www.linkedin.com/jobs/view/4339571376
+155,Computer Vision Engineer,Lead Computer Vision Engineer,"Linux, JavaScript, Jenkins, Docker",4 year(s),"BDT 40,000/month",https://www.linkedin.com/jobs/view/4000000155
+156,Data Scientist,Junior Data Scientist,"PHP, Java, Android, SQL",2 year(s),"৳40,000 - ৳70,000 per month",https://www.linkedin.com/jobs/view/4000000156
+157,Systems Administrator,Systems Administrator - Europe Based,"SQL, Selenium, Python, Tableau, iOS, Vue.js",6 year(s),"৳50,000 - ৳50,000 per month",https://www.linkedin.com/jobs/view/4000000157
+158,Security Engineer,Data Security Engineer,"Jenkins, Ansible, NumPy, Power BI",3 year(s),"$43,010 per year",https://www.linkedin.com/jobs/view/4000000158
+159,Machine Learning Engineer,Machine Learning Engineer - iOS Developer,"Kotlin, Express.js, CSS, MongoDB",2 year(s),"Tk. 50,000 - 70,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000159
+160,Software Developer,Software Developer - PHP Developer,"Android, Angular, Python",1 year(s),"Tk. 30,000 - 60,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000160
+161,Data Analyst,Data Analyst (Remote),"AWS, Vue.js, iOS, Linux",2 year(s),"৳40,000 - ৳50,000 per month",https://www.linkedin.com/jobs/view/4332405524
+162,Web Developer,Web Developer - Remote Based,"iOS, C++, HTML, Computer Vision, Java",10 year(s),"Tk. 30,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000162
+163,QA Engineer,Lead QA Engineer,"CSS, Vue.js, PHP, Git, REST API",5 year(s),"$85,251 per year",https://www.linkedin.com/jobs/view/4000000163
+164,NLP Engineer,Lead NLP Engineer,"AWS, Node.js, PHP, NumPy, HTML, REST API",Fresh / 0-1 year,"$40,790-$98,119 per year",https://www.linkedin.com/jobs/view/4339571376
+165,QA Engineer,QA Engineer (Remote),"Selenium, React, Python",1 year(s),"$66,081-$142,483 per year",https://www.linkedin.com/jobs/view/4000000165
+166,Computer Vision Engineer,Computer Vision Engineer - Cloud,"MongoDB, Vue.js, Spark",12 year(s),"Tk. 50,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000166
+167,NLP Engineer,NLP Engineer (Remote),"Node.js, Scikit-learn, GraphQL, REST API, JavaScript, MongoDB",4 year(s),"BDT 20,000 - 20,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000167
+168,Machine Learning Engineer,Machine Learning Engineer (Remote),"Redis, Linux, TensorFlow",1 year(s),"৳15,000 - ৳45,000 per month",https://www.linkedin.com/jobs/view/4000000168
+169,Security Engineer,Security Engineer - Mobile,"Jenkins, Swift, iOS",3 year(s),"BDT 10,000 - 10,000 (Monthly)",https://www.linkedin.com/jobs/view/4315216564
+170,Systems Administrator,Contract Systems Administrator,"Golang, SQL, PHP, GCP, iOS, Ansible",1 year(s),"BDT 15,000 - 15,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000170
+171,Systems Administrator,Systems Administrator - Frontend,"Vue.js, Git, Scikit-learn, Python, Kubernetes",3 year(s),"$88,468-$130,263 per year",https://www.linkedin.com/jobs/view/4000000171
+172,DevOps Engineer,Senior DevOps Engineer,"Django, Golang, CI/CD, Docker, HTML, Kotlin",8 year(s),"Tk. 70,000 - 90,000 (Monthly)",https://www.linkedin.com/jobs/view/4321162807
+173,IT Support,IT Support - Security,"Flask, Golang, Ansible",5 year(s),"BDT 15,000 - 15,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000173
+174,IT Support,IT Support - Mobile,"Linux, Azure, Kotlin, Security, Computer Vision",2 year(s),"BDT 15,000 - 25,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000174
+175,Data Analyst,Mobile Data Analyst,"Node.js, CI/CD, Docker, Tableau, C++, PyTorch",2 year(s),"$45,925 per year",https://www.linkedin.com/jobs/view/4316917585
+176,DevOps Engineer,Lead DevOps Engineer,"Azure, Spark, JavaScript, Swift, MongoDB",1 year(s),"BDT 70,000 - 100,000 (Monthly)",https://www.linkedin.com/jobs/view/4321622737
+177,Data Scientist,Lead Data Scientist,".NET, Bash, Azure, Kubernetes",3 year(s),"Tk. 40,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000177
+178,Data Scientist,Senior Data Scientist,"JavaScript, Spring, Jenkins, TensorFlow, iOS, Azure",6 year(s),"BDT120,000 - 140,000 (Monthly)",https://www.linkedin.com/jobs/view/4332405524
+179,Product Engineer,Product Engineer - Mobile,"GCP, Git, pandas, JavaScript, Vue.js, MySQL",2 year(s),"৳30,000 - ৳30,000 per month",https://www.linkedin.com/jobs/view/4000000179
+180,QA Engineer,QA Engineer - Automation,"Django, SQL, REST API, Golang",Fresh / 0-1 year,"$58,411-$76,090 per year",https://www.linkedin.com/jobs/view/4000000180
+181,Machine Learning Engineer,Machine Learning Engineer - Frontend,"NLP, Golang, Jenkins",6 year(s),"BDT 20,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000181
+182,Database Administrator,Intern Database Administrator,"Security, Linux, NumPy, CI/CD",2 year(s),"BDT 10,000 - 20,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000182
+183,Software Engineer,Platform Software Engineer,"Linux, Ansible, Terraform, SQL",Fresh / 0-1 year,"BDT 20,000/month",https://www.linkedin.com/jobs/view/4000000183
+184,Database Administrator,Frontend Database Administrator,"Spring, iOS, TensorFlow, Power BI",6 year(s),"BDT 20,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000184
+185,Full Stack Developer,Senior Full Stack Developer,"Ansible, Tableau, Jenkins, Flask, C#, REST API",3 year(s),"BDT 45,000 - 65,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000185
+186,Frontend Developer,Frontend Developer (Remote),"PyTorch, Python, Laravel, C++, PHP",5 year(s),"Tk. 15,000 - 15,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000186
+187,Machine Learning Engineer,Cloud Machine Learning Engineer,"Angular, Security, pandas, Power BI, Jenkins, CSS",4 year(s),"BDT 15,000/month",https://www.linkedin.com/jobs/view/4000000187
+188,Data Analyst,Data Analyst - Flutter Developer,"iOS, React, Git, Vue.js",3 year(s),"$86,170-$100,232 per year",https://www.linkedin.com/jobs/view/4000000188
+189,Machine Learning Engineer,Lead Machine Learning Engineer,"GCP, Kotlin, Git, iOS",10 year(s),"BDT 40,000 - 60,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000189
+190,Database Administrator,Senior Database Administrator,"Python, TensorFlow, Vue.js, PostgreSQL, Bash",6 year(s),"BDT 10,000 - 20,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000190
+191,Data Analyst,Data Analyst - India Based,"Vue.js, CSS, CI/CD, AWS, C#",2 year(s),"BDT 90,000/month",https://www.linkedin.com/jobs/view/4000000191
+192,Frontend Developer,Frontend Developer (Remote),"TypeScript, Docker, Linux",4 year(s),"৳70,000 - ৳100,000 per month",https://www.linkedin.com/jobs/view/4000000192
+193,Full Stack Developer,Contract Full Stack Developer,"Node.js, NLP, PyTorch, C#",7 year(s),"$52,630-$79,169 USD (Annual)",https://www.linkedin.com/jobs/view/4000000193
+194,DevOps Engineer,DevOps Engineer (Remote),"AWS, Git, Azure",5 year(s),"Tk. 10,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4321162807
+195,Database Administrator,Database Administrator - Frontend,"GCP, Laravel, AWS, CSS, NumPy",6 year(s),"BDT 40,000 - 70,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000195
+196,Software Developer,Senior Software Developer,"MySQL, Kubernetes, Django, Redis, Power BI, MongoDB",6 year(s),"$84,882-$107,755 USD (Annual)",https://www.linkedin.com/jobs/view/4000000196
+197,Mobile Developer,Lead Mobile Developer,"C++, Bash, GCP, Computer Vision, NumPy, NLP",5 year(s),"$73,768-$104,604 USD (Annual)",https://www.linkedin.com/jobs/view/4000000197
+198,Data Scientist,Lead Data Scientist,"Security, JavaScript, PHP, Flask",2 year(s),"$57,955-$116,235 per year",https://www.linkedin.com/jobs/view/4000000198
+199,Research Assistant,Research Assistant - Europe Based,"C#, pandas, Selenium, Git, Docker, Linux",2 year(s),"$85,144-$106,991 per year",https://www.linkedin.com/jobs/view/4000000199
+200,Machine Learning Engineer,Lead Machine Learning Engineer,"CSS, GCP, Spark, Django, Terraform",3 year(s),"Tk. 20,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000200
+201,Computer Vision Engineer,Data Computer Vision Engineer,"Laravel, C++, Scikit-learn, MongoDB, Swift, Hadoop",6 year(s),"BDT 10,000/month",https://www.linkedin.com/jobs/view/4000000201
+202,Security Engineer,Frontend Security Engineer,"Laravel, CSS, Android, MongoDB, .NET",1 year(s),"$79,323 per year",https://www.linkedin.com/jobs/view/4000000202
+203,NLP Engineer,NLP Engineer - Backend,"Azure, AWS, Computer Vision, Flask, Selenium, Android",12 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/4339571376
+204,Research Assistant,Research Assistant (Remote),"Express.js, Computer Vision, Laravel, iOS, Linux, Git",4 year(s),"$61,996-$83,700 USD (Annual)",https://www.linkedin.com/jobs/view/4000000204
+205,IT Support,Intern IT Support,"Scikit-learn, Ansible, Node.js, pandas, JavaScript",1 year(s),"BDT 15,000 - 45,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000205
+206,Cloud Engineer,Junior Cloud Engineer,".NET, Redis, GCP, Jenkins",2 year(s),"৳20,000 - ৳20,000 per month",https://www.linkedin.com/jobs/view/4000000206
+207,Mobile Developer,Mobile Developer - Backend,"NLP, Tableau, Spring, Jenkins",6 year(s),"$45,769 per year",https://www.linkedin.com/jobs/view/4000000207
+208,Systems Administrator,Senior Systems Administrator,"CI/CD, .NET, iOS",4 year(s),"$89,600-$169,203 USD (Annual)",https://www.linkedin.com/jobs/view/4000000208
+209,Teaching,Teaching - AI,"Angular, AWS, Spark, Selenium",1 year(s),"$59,542-$107,661 per year",https://www.linkedin.com/jobs/view/4000000209
+210,IT Support,Mobile IT Support,"Spring, Linux, Azure, Django",3 year(s),"$53,840 per year",https://www.linkedin.com/jobs/view/4000000210
+211,QA Engineer,Contract QA Engineer,"REST API, JavaScript, TypeScript",1 year(s),"৳15,000 - ৳45,000 per month",https://www.linkedin.com/jobs/view/4000000211
+212,Security Engineer,Security Engineer - Mobile,"TypeScript, Angular, Terraform, Hadoop, MySQL, GraphQL",4 year(s),"BDT 15,000/month",https://www.linkedin.com/jobs/view/4000000212
+213,DevOps Engineer,AI DevOps Engineer,"PostgreSQL, Spring, Flask, Git, NumPy, C++",6 year(s),"Tk. 10,000 - 10,000 (Monthly)",https://www.linkedin.com/jobs/view/4316917585
+214,Data Scientist,Data Scientist - Frontend,"Scikit-learn, PostgreSQL, Laravel, JavaScript",Fresh / 0-1 year,"BDT 10,000/month",https://www.linkedin.com/jobs/view/4000000214
+215,Data Analyst,Junior Data Analyst,"Docker, PyTorch, GraphQL, MySQL, iOS",Fresh / 0-1 year,"$51,984-$76,904 per year",https://www.linkedin.com/jobs/view/4000000215
+216,Systems Administrator,Systems Administrator (Remote),"Kotlin, iOS, JavaScript, Ansible",2 year(s),"$71,632-$139,062 USD (Annual)",https://www.linkedin.com/jobs/view/4000000216
+217,BI Developer,BI Developer - India Based,"GCP, PyTorch, Flask",Fresh / 0-1 year,"BDT 10,000/month",https://www.linkedin.com/jobs/view/4000000217
+218,IT Support,IT Support - iOS Developer,"Security, Bash, Git, GraphQL",Fresh / 0-1 year,"৳20,000 - ৳50,000 per month",https://www.linkedin.com/jobs/view/4000000218
+219,Mobile Developer,Senior Mobile Developer,"Git, CSS, AWS, Azure",6 year(s),"৳90,000 - ৳90,000 per month",https://www.linkedin.com/jobs/view/4000000219
+220,Security Engineer,Security Engineer - Node.js Developer,"Git, Python, Bash",Fresh / 0-1 year,"৳40,000 - ৳50,000 per month",https://www.linkedin.com/jobs/view/4000000220
+221,Frontend Developer,Security Frontend Developer,"Node.js, Angular, NLP, TypeScript, Golang, Python",3 year(s),"$59,135-$137,552 per year",https://www.linkedin.com/jobs/view/4000000221
+222,Security Engineer,Security Engineer - Mobile,".NET, Node.js, Ansible, Azure",1 year(s),"$47,062-$111,387 USD (Annual)",https://www.linkedin.com/jobs/view/4000000222
+223,Product Engineer,Senior Product Engineer,"Git, TensorFlow, Security",4 year(s),"Tk. 20,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4315907244
+224,Cloud Engineer,Cloud Engineer - Cloud,"Redis, PostgreSQL, PyTorch, Linux, Express.js, Bash",3 year(s),"$73,573 per year",https://www.linkedin.com/jobs/view/4000000224
+225,DevOps Engineer,Junior DevOps Engineer,"Spark, CI/CD, Kotlin, HTML",1 year(s),"$76,849 per year",https://www.linkedin.com/jobs/view/4316917585
+226,Research Assistant,Senior Research Assistant,"Django, AWS, Java",3 year(s),"BDT 40,000/month",https://www.linkedin.com/jobs/view/4000000226
+227,Computer Vision Engineer,Data Computer Vision Engineer,"Angular, GraphQL, Swift, Computer Vision, Git, Golang",6 year(s),"৳40,000 - ৳40,000 per month",https://www.linkedin.com/jobs/view/4000000227
+228,AI Researcher,Lead AI Researcher,"Security, Golang, HTML, Android, Bash, CSS",3 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/4000000228
+229,Machine Learning Engineer,Senior Machine Learning Engineer,"MySQL, Git, Laravel, Express.js, Spring, Selenium",3 year(s),"BDT 20,000 - 20,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000229
+230,Teaching,Teaching (Remote),"Hadoop, Golang, C#, React, Power BI",6 year(s),"BDT 70,000/month",https://www.linkedin.com/jobs/view/4000000230
+231,Mobile Developer,Intern Mobile Developer,"Git, Bash, NLP, CSS, Python, Node.js",1 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/4000000231
+232,Backend Developer,Contract Backend Developer,"Spark, Linux, PyTorch, NumPy, Flask",3 year(s),"BDT 15,000 - 15,000 (Monthly)",https://www.linkedin.com/jobs/view/4191117617
+233,Teaching,Teaching - Java Developer,"C++, CI/CD, Security",6 year(s),"Tk. 15,000 - 25,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000233
+234,Software Developer,Junior Software Developer,"Git, React, Jenkins, Bash, Golang",9 year(s),"BDT 70,000/month",https://www.linkedin.com/jobs/view/4000000234
+235,AI Researcher,AI Researcher (Remote),"Spark, Angular, PostgreSQL, Power BI, Swift",1 year(s),"৳90,000 - ৳120,000 per month",https://www.linkedin.com/jobs/view/4000000235
+236,AI Researcher,Contract AI Researcher,"HTML, Java, MongoDB, Swift, Power BI",11 year(s),"Tk. 10,000 - 20,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000236
+237,AI Researcher,Lead AI Researcher,"C++, GCP, CSS, Ansible, Spark",1 year(s),"Tk. 40,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000237
+238,AI Researcher,AI Researcher (Remote),"Angular, .NET, iOS, Selenium, NumPy",8 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/4000000238
+239,Mobile Developer,Intern Mobile Developer,"Kotlin, Selenium, Java, Jenkins, Kubernetes",0.6 year(s),"BDT 50,000 - 60,000 (Monthly)",https://www.linkedin.com/jobs/view/4191117617
+240,Data Scientist,Data Scientist - India Based,"Tableau, MongoDB, NumPy, Git, Angular",3 year(s),"BDT 40,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000240
+241,NLP Engineer,Intern NLP Engineer,"Tableau, Selenium, C++, Flask, Git, Laravel",6 year(s),"৳20,000 - ৳40,000 per month",https://www.linkedin.com/jobs/view/4000000241
+242,Data Scientist,Security Data Scientist,"TypeScript, PHP, Ansible",10 year(s),"BDT 20,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000242
+243,NLP Engineer,Lead NLP Engineer,"Golang, React, Laravel, Kubernetes, Terraform, Flask",5 year(s),"Tk. 90,000 - 90,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000243
+244,NLP Engineer,NLP Engineer - Python Developer,"Selenium, CSS, Security, React, Hadoop",1 year(s),"৳50,000 - ৳70,000 per month",https://www.linkedin.com/jobs/view/4000000244
+245,Cloud Engineer,Lead Cloud Engineer,"Spark, CSS, MySQL",1 year(s),"৳15,000 - ৳25,000 per month",https://www.linkedin.com/jobs/view/4000000245
+246,Security Engineer,Intern Security Engineer,"CSS, Security, GCP, Django",1 year(s),"Tk. 20,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000246
+247,Machine Learning Engineer,Intern Machine Learning Engineer,"iOS, TypeScript, Bash",1 year(s),"BDT 90,000 - 120,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000247
+248,Database Administrator,Mobile Database Administrator,"REST API, Selenium, React, Golang, AWS, Linux",1 year(s),"Tk. 70,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000248
+249,AI Researcher,AI Researcher - Chittagong Based,"REST API, CI/CD, Bash, Python",12 year(s),"BDT 70,000/month",https://www.linkedin.com/jobs/view/4000000249
+250,Frontend Developer,Intern Frontend Developer,"TensorFlow, Express.js, Laravel",1 year(s),"$45,493 per year",https://www.linkedin.com/jobs/view/4283320265
+251,DevOps Engineer,Contract DevOps Engineer,"AWS, CSS, C++",5 year(s),"৳15,000 - ৳25,000 per month",https://www.linkedin.com/jobs/view/4000000251
+252,AI Researcher,AI Researcher - Flutter Developer,"GCP, Git, Power BI, pandas",3 year(s),"BDT 1,40,000/month",https://www.linkedin.com/jobs/view/4332172280
+253,Research Assistant,Junior Research Assistant,"C++, Spark, Azure",3 year(s),"BDT 100,000 - 120,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000253
+254,Web Developer,Frontend Web Developer,"REST API, Flask, iOS",2 year(s),"BDT 40,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4321162807
+255,DevOps Engineer,Senior DevOps Engineer,"GraphQL, Spring, Swift, Flask",3 year(s),"BDT 20,000/month",https://www.linkedin.com/jobs/view/4000000255
+256,Systems Administrator,Systems Administrator (Remote),"iOS, Security, Git, Selenium, Docker",2 year(s),"৳30,000 - ৳60,000 per month",https://www.linkedin.com/jobs/view/4000000256
+257,Machine Learning Engineer,Contract Machine Learning Engineer,"Redis, Node.js, Linux, Spark, Laravel",12 year(s),"$56,393-$124,427 per year",https://www.linkedin.com/jobs/view/4000000257
+258,Mobile Developer,Mobile Developer - Dhaka Based,"Laravel, React, AWS",4 year(s),"৳30,000 - ৳50,000 per month",https://www.linkedin.com/jobs/view/4000000258
+259,Computer Vision Engineer,Computer Vision Engineer (Remote),"Swift, Computer Vision, Bash, Redis, React, Git",9 year(s),"BDT 30,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000259
+260,Frontend Developer,Lead Frontend Developer,"Security, PHP, GraphQL, Docker",1 year(s),"Tk. 15,000 - 45,000 (Monthly)",https://www.linkedin.com/jobs/view/4283320265
+261,QA Engineer,QA Engineer - USA Based,"NLP, Spark, MySQL, Azure",3 year(s),"Tk. 70,000 - 100,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000261
+262,Research Assistant,Contract Research Assistant,"SQL, Kotlin, Python, Security, Swift, C++",1 year(s),"BDT 40,000/month",https://www.linkedin.com/jobs/view/4000000262
+263,BI Developer,BI Developer - Remote Based,"C++, GCP, Kotlin, NLP, Kubernetes, Linux",8 year(s),"Tk. 20,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000263
+264,Systems Administrator,Systems Administrator - Remote Based,"C#, GCP, NumPy",3 year(s),"BDT 50,000/month",https://www.linkedin.com/jobs/view/4000000264
+265,Systems Administrator,Lead Systems Administrator,"pandas, Security, HTML, Angular, PyTorch",5 year(s),"Tk. 40,000 - 60,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000265
+266,Research Assistant,AI Research Assistant,"Swift, Spark, NumPy, Tableau, Computer Vision",1 year(s),"BDT 40,000 - 70,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000266
+267,IT Support,Junior IT Support,"Golang, SQL, CSS, PostgreSQL, Android",3 year(s),"৳90,000 - ৳110,000 per month",https://www.linkedin.com/jobs/view/4000000267
+268,Software Engineer,Software Engineer (Remote),"Spring, Azure, Angular, React",9 year(s),"Tk. 10,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000268
+269,Web Developer,Lead Web Developer,"PyTorch, HTML, Express.js, Hadoop, Security",1 year(s),"৳50,000 - ৳80,000 per month",https://www.linkedin.com/jobs/view/4000000269
+270,Data Scientist,Intern Data Scientist,"Hadoop, HTML, Ansible, CI/CD, MongoDB, Docker",1 year(s),"$68,957-$119,309 per year",https://www.linkedin.com/jobs/view/4332405524
+271,Full Stack Developer,Backend Full Stack Developer,"pandas, CI/CD, Python, Kotlin, NumPy",9 year(s),"BDT 70,000 - 90,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000271
+272,DevOps Engineer,Lead DevOps Engineer,"Android, Computer Vision, CSS, AWS",4 year(s),"BDT 70,000/month",https://www.linkedin.com/jobs/view/4316917585
+273,IT Support,Junior IT Support,"Node.js, HTML, Scikit-learn, GraphQL, PyTorch",3 year(s),"BDT 50,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000273
+274,Machine Learning Engineer,Junior Machine Learning Engineer,"iOS, Python, Golang, Vue.js, Java, Ansible",2 year(s),"৳90,000 - ৳110,000 per month",https://www.linkedin.com/jobs/view/4000000274
+275,Data Scientist,Data Scientist (Remote),"C#, .NET, Security, Laravel, AWS, Python",3 year(s),"Tk. 90,000 - 100,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000275
+276,Cloud Engineer,Cloud Engineer - AI,"Spring, HTML, iOS, Flask, Computer Vision",10 year(s),"BDT 90,000 - 110,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000276
+277,Data Analyst,Senior Data Analyst,"Power BI, MySQL, Selenium, Node.js",3 year(s),"BDT 10,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000277
+278,Machine Learning Engineer,Senior Machine Learning Engineer,"Docker, CSS, Java",3 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/4000000278
+279,Software Engineer,Software Engineer - Cloud,"NumPy, Android, PyTorch",6 year(s),"BDT 20,000/month",https://www.linkedin.com/jobs/view/4000000279
+280,Web Developer,Web Developer - Automation,"CI/CD, Kubernetes, Scikit-learn, Python, Tableau",6 year(s),"$41,226 per year",https://www.linkedin.com/jobs/view/4000000280
+281,Research Assistant,Contract Research Assistant,"Tableau, Git, Java, GraphQL, PostgreSQL, SQL",2 year(s),"BDT 15,000 - 15,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000281
+282,Data Analyst,Senior Data Analyst,"TypeScript, NumPy, Hadoop, GraphQL, Kotlin, Selenium",6 year(s),"BDT 150,000 - 250,000 (Monthly)",https://www.linkedin.com/jobs/view/4332405524
+283,Teaching,Backend Teaching,"Bash, GraphQL, MySQL",3 year(s),"$45,107 per year",https://www.linkedin.com/jobs/view/4000000283
+284,AI Researcher,Contract AI Researcher,"Jenkins, HTML, C#, Git",6 year(s),"$81,852 per year",https://www.linkedin.com/jobs/view/4000000284
+285,Data Analyst,Contract Data Analyst,"TypeScript, Spring, CI/CD, REST API, PyTorch",8 year(s),"৳50,000 - ৳70,000 per month",https://www.linkedin.com/jobs/view/4000000285
+286,BI Developer,Contract BI Developer,"Kubernetes, PyTorch, Azure, Python, iOS",Fresh / 0-1 year,"BDT 10,000/month",https://www.linkedin.com/jobs/view/4000000286
+287,DevOps Engineer,Contract DevOps Engineer,"Angular, Flask, Scikit-learn, Docker",2 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/4000000287
+288,Database Administrator,Database Administrator - Europe Based,"NumPy, Bash, Kotlin, Jenkins",3 year(s),"৳40,000 - ৳40,000 per month",https://www.linkedin.com/jobs/view/4000000288
+289,QA Engineer,Lead QA Engineer,"HTML, Tableau, AWS",Fresh / 0-1 year,"BDT 50,000/month",https://www.linkedin.com/jobs/view/4000000289
+290,Data Scientist,Intern Data Scientist,"Golang, TensorFlow, PostgreSQL",0.6 year(s),"Tk. 15,000 - 45,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000290
+291,Web Developer,Junior Web Developer,"Git, .NET, NumPy, Azure, CSS, Jenkins",3 year(s),"$74,357-$116,632 USD (Annual)",https://www.linkedin.com/jobs/view/4000000291
+292,Mobile Developer,Mobile Developer - Node.js Developer,"Docker, .NET, SQL, REST API, CSS",Fresh / 0-1 year,"BDT 50,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000292
+293,DevOps Engineer,DevOps Engineer (Remote),"PHP, GraphQL, Java",12 year(s),"BDT 50,000/month",https://www.linkedin.com/jobs/view/4000000293
+294,Mobile Developer,Contract Mobile Developer,"Git, pandas, GraphQL, iOS, Java",3 year(s),"BDT 10,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000294
+295,Computer Vision Engineer,Senior Computer Vision Engineer,"AWS, TypeScript, MySQL",5 year(s),"$41,250 per year",https://www.linkedin.com/jobs/view/4000000295
+296,Cloud Engineer,Intern Cloud Engineer,"C#, .NET, Spark",1 year(s),"$41,408-$56,618 USD (Annual)",https://www.linkedin.com/jobs/view/4000000296
+297,Security Engineer,Cloud Security Engineer,"Docker, HTML, MongoDB, PHP, Spark",1 year(s),"BDT 70,000/month",https://www.linkedin.com/jobs/view/4000000297
+298,Systems Administrator,Contract Systems Administrator,"GCP, PHP, Jenkins, Java",2 year(s),"$61,580 per year",https://www.linkedin.com/jobs/view/4000000298
+299,Database Administrator,Database Administrator - Automation,"TensorFlow, Tableau, Java, CSS",7 year(s),"BDT 15,000/month",https://www.linkedin.com/jobs/view/4000000299
+300,Mobile Developer,Mobile Developer - USA Based,"Java, Tableau, .NET, Angular, Express.js",3 year(s),"BDT 30,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000300
+301,Computer Vision Engineer,Security Computer Vision Engineer,"Ansible, AWS, NumPy, pandas",1 year(s),"BDT 70,000/month",https://www.linkedin.com/jobs/view/4000000301
+302,DevOps Engineer,Intern DevOps Engineer,"Kotlin, SQL, Scikit-learn, PHP, TensorFlow, Azure",6 year(s),"$65,831 per year",https://www.linkedin.com/jobs/view/4000000302
+303,Product Engineer,Contract Product Engineer,"Computer Vision, Flask, Git, AWS, Hadoop, NLP",3 year(s),"BDT 90,000/month",https://www.linkedin.com/jobs/view/4000000303
+304,IT Support,IT Support - Remote Based,"Vue.js, iOS, Spark, Node.js, C#, Tableau",4 year(s),"Tk. 50,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000304
+305,Product Engineer,Junior Product Engineer,"Vue.js, Node.js, Android",2 year(s),"৳70,000 - ৳80,000 per month",https://www.linkedin.com/jobs/view/4315907244
+306,Machine Learning Engineer,Junior Machine Learning Engineer,"Tableau, Android, JavaScript, GCP",3 year(s),"$69,245 per year",https://www.linkedin.com/jobs/view/4000000306
+307,DevOps Engineer,DevOps Engineer - Dhaka Based,"Ansible, NumPy, CI/CD, Linux, Python, REST API",7 year(s),"৳90,000 - ৳120,000 per month",https://www.linkedin.com/jobs/view/4000000307
+308,Frontend Developer,Senior Frontend Developer,"Java, JavaScript, CSS, Docker",6 year(s),"$83,712-$132,829 per year",https://www.linkedin.com/jobs/view/4000000308
+309,IT Support,Intern IT Support,"Scikit-learn, Computer Vision, Selenium, Kubernetes",6 year(s),"$61,156-$119,465 per year",https://www.linkedin.com/jobs/view/4000000309
+310,Full Stack Developer,Full Stack Developer - Security,"Hadoop, GCP, C++, Kotlin, GraphQL",Fresh / 0-1 year,"BDT 15,000/month",https://www.linkedin.com/jobs/view/4000000310
+311,Backend Developer,Intern Backend Developer,"Hadoop, iOS, HTML, NumPy, Bash, C#",7 year(s),"$52,684-$62,891 USD (Annual)",https://www.linkedin.com/jobs/view/4000000311
+312,NLP Engineer,Junior NLP Engineer,"Docker, Git, Linux, HTML, C++",Fresh / 0-1 year,"Tk. 20,000 - 35,000 (Monthly)",https://www.linkedin.com/jobs/view/4321597171
+313,Software Engineer,Software Engineer - Flutter Developer,"Security, C#, .NET",2 year(s),"$71,398-$143,591 USD (Annual)",https://www.linkedin.com/jobs/view/4000000313
+314,Teaching,Teaching - Flutter Developer,"Security, Hadoop, MongoDB",5 year(s),"BDT 10,000/month",https://www.linkedin.com/jobs/view/4000000314
+315,Backend Developer,Contract Backend Developer,"Jenkins, REST API, AWS, C#",5 year(s),"$60,611-$74,756 per year",https://www.linkedin.com/jobs/view/4000000315
+316,Frontend Developer,Lead Frontend Developer,"C#, Node.js, Kubernetes, Power BI, Flask",3 year(s),"BDT 10,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4283320265
+317,NLP Engineer,Junior NLP Engineer,"Bash, Hadoop, Swift",7 year(s),"$70,105 per year",https://www.simplilearn.com/how-to-become-nlp-engineer-article
+318,Full Stack Developer,Full Stack Developer - Europe Based,"Angular, Hadoop, Tableau",5 year(s),"BDT 40,000/month",https://www.linkedin.com/jobs/view/4000000318
+319,Backend Developer,Backend Developer (Remote),"Java, Spring, MySQL, Node.js, Python",10 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/4000000319
+320,Database Administrator,Database Administrator - AI,"CI/CD, PyTorch, JavaScript, Express.js, Django",3 year(s),"Tk. 70,000 - 70,000 (Monthly)",https://www.linkedin.com/jobs/view/4000000320
+321,Computer Vision Engineer,Security Computer Vision Engineer,"Android, NLP, TypeScript, Linux",6 year(s),"Tk. 15,000 - 45,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000001
+322,Security Engineer,Intern Security Engineer,"Kubernetes, Azure, C#, Kotlin, TypeScript",2 year(s),"৳10,000 - ৳10,000 per month",https://www.linkedin.com/jobs/view/5000000002
+323,Product Engineer,Intern Product Engineer,"Spark, Angular, Azure, Bash",3 year(s),"৳15,000 - ৳35,000 per month",https://www.linkedin.com/jobs/view/5000000003
+324,Frontend Developer,Frontend Developer - Python Developer,"Redis, C++, Bash",6 year(s),"$68,531 per year",https://www.linkedin.com/jobs/view/5000000004
+325,NLP Engineer,Security NLP Engineer,"Bash, PyTorch, C#",2 year(s),"BDT 15,000/month",https://www.linkedin.com/jobs/view/5000000005
+326,Web Developer,Junior Web Developer,"PyTorch, CI/CD, PostgreSQL, AWS",2 year(s),"BDT 50,000/month",https://www.linkedin.com/jobs/view/5000000006
+327,Web Developer,Web Developer - Backend,"Kubernetes, Git, JavaScript",Fresh / 0-1 year,"BDT 50,000/month",https://www.linkedin.com/jobs/view/5000000007
+328,Computer Vision Engineer,Computer Vision Engineer - Flutter Developer,"TensorFlow, CI/CD, C++, TypeScript, C#, pandas",3 year(s),"BDT 50,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000008
+329,Data Scientist,Junior Data Scientist,"TypeScript, TensorFlow, Express.js, Vue.js, Security, CSS",2 year(s),"$85,573 per year",https://www.linkedin.com/jobs/view/5000000009
+330,AI Researcher,Lead AI Researcher,"TensorFlow, REST API, Python, Jenkins",3 year(s),"BDT 40,000/month",https://www.linkedin.com/jobs/view/5000000010
+331,Computer Vision Engineer,Computer Vision Engineer (Remote),"iOS, Hadoop, Ansible, NLP",6 year(s),"৳15,000 - ৳25,000 per month",https://www.linkedin.com/jobs/view/5000000011
+332,BI Developer,BI Developer - Dhaka Based,"Spark, pandas, Jenkins, iOS, Redis, GCP",2 year(s),"BDT 10,000/month",https://www.linkedin.com/jobs/view/5000000012
+333,Database Administrator,Intern Database Administrator,"PostgreSQL, NumPy, Vue.js",1 year(s),"$58,209-$101,245 USD (Annual)",https://www.linkedin.com/jobs/view/5000000013
+334,Backend Developer,Intern Backend Developer,"TypeScript, PyTorch, Kubernetes, Linux",1 year(s),"BDT 20,000/month",https://www.linkedin.com/jobs/view/5000000014
+335,Security Engineer,Security Engineer - Bangladesh Based,"C++, Jenkins, iOS, Security",3 year(s),"BDT 15,000 - 15,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000015
+336,Full Stack Developer,Full Stack Developer - Java Developer,"Laravel, Java, Hadoop, TensorFlow, Python, PostgreSQL",9 year(s),"Tk. 50,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000016
+337,IT Support,IT Support - Data,"Laravel, CSS, Selenium",3 year(s),"$88,123 per year",https://www.linkedin.com/jobs/view/5000000017
+338,Mobile Developer,Mobile Developer (Remote),"GCP, Angular, Hadoop",2 year(s),"BDT 40,000 - 60,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000018
+339,Software Developer,Software Developer (Remote),"AWS, TypeScript, NLP, CSS",4 year(s),"$85,590-$119,741 per year",https://www.linkedin.com/jobs/view/5000000019
+340,Teaching,Security Teaching,"Spring, Tableau, React, MySQL, JavaScript",2 year(s),"$56,923-$101,613 USD (Annual)",https://www.linkedin.com/jobs/view/5000000020
+341,DevOps Engineer,DevOps Engineer (Remote),"CI/CD, Tableau, TensorFlow, C++",3 year(s),"$86,884-$130,831 USD (Annual)",https://www.linkedin.com/jobs/view/5000000021
+342,Database Administrator,Database Administrator - Dhaka Based,"CSS, HTML, Python, Flask",5 year(s),"Tk. 50,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000022
+343,Security Engineer,Contract Security Engineer,"Python, AWS, Kotlin, Bash",3 year(s),"BDT 50,000/month",https://www.linkedin.com/jobs/view/5000000023
+344,QA Engineer,QA Engineer - Chittagong Based,"CSS, .NET, C#, Git, Flask",11 year(s),"BDT 70,000/month",https://www.linkedin.com/jobs/view/5000000024
+345,NLP Engineer,Lead NLP Engineer,"iOS, Selenium, PHP",1 year(s),"$82,166-$132,500 per year",https://www.linkedin.com/jobs/view/4321597171
+346,Software Developer,Senior Software Developer,"Node.js, C++, Linux, CSS, TypeScript, Hadoop",3 year(s),"$75,164 per year",https://www.linkedin.com/jobs/view/5000000026
+347,Software Developer,Software Developer - Dhaka Based,"PHP, Kotlin, CSS",1 year(s),"৳40,000 - ৳40,000 per month",https://www.linkedin.com/jobs/view/5000000027
+348,Data Analyst,Data Analyst (Remote),"TensorFlow, Redis, Linux, Security",11 year(s),"BDT 15,000/month",https://www.linkedin.com/jobs/view/5000000028
+349,Mobile Developer,Junior Mobile Developer,"Spring, Kotlin, Kubernetes, Git, Terraform, PyTorch",3 year(s),"BDT 25,000 - 45,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000029
+350,Software Engineer,Intern Software Engineer,"GCP, Kotlin, Linux, Power BI, Tableau",1 year(s),"৳40,000 - ৳70,000 per month",https://www.linkedin.com/jobs/view/5000000030
+351,BI Developer,BI Developer - Mobile,"GCP, Python, Git, PHP, .NET",3 year(s),"$80,561 per year",https://www.linkedin.com/jobs/view/5000000031
+352,Teaching,Lead Teaching,"Power BI, Java, Swift",6 year(s),"Tk. 20,000 - 20,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000032
+353,IT Support,Senior IT Support,"Computer Vision, JavaScript, CI/CD",1 year(s),"BDT 15,000 - 15,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000033
+354,IT Support,IT Support (Remote),"Golang, Angular, PHP, Computer Vision, GCP",9 year(s),"$44,818 per year",https://www.linkedin.com/jobs/view/5000000034
+355,Data Scientist,Data Scientist - iOS Developer,"Express.js, Scikit-learn, iOS, .NET, HTML",2 year(s),"Tk. 20,000 - 20,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000035
+356,Product Engineer,Security Product Engineer,"PostgreSQL, REST API, Spring, Power BI",4 year(s),"৳30,000 - ৳30,000 per month",https://www.linkedin.com/jobs/view/4315907244
+357,Database Administrator,Senior Database Administrator,"Computer Vision, PHP, Ansible, SQL, TensorFlow, Selenium",3 year(s),"$77,598-$88,263 per year",https://www.linkedin.com/jobs/view/5000000037
+358,NLP Engineer,Contract NLP Engineer,"pandas, Linux, Ansible, Kotlin, Angular, PyTorch",1 year(s),"BDT 10,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/4321597171
+359,Frontend Developer,Frontend Developer - Frontend,"Android, Scikit-learn, Ansible, Jenkins",3 year(s),"$70,393 per year",https://www.linkedin.com/jobs/view/4283320265
+360,Teaching,Teaching - React Developer,"Hadoop, Flask, PostgreSQL, TensorFlow, NLP",3 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/5000000040
+361,Software Developer,Software Developer - Europe Based,"Kubernetes, C#, CSS",3 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/5000000041
+362,Teaching,Security Teaching,"MySQL, Spark, Swift, TensorFlow, JavaScript",Fresh / 0-1 year,"৳90,000 - ৳90,000 per month",https://www.linkedin.com/jobs/view/5000000042
+363,Product Engineer,Product Engineer - Bangladesh Based,"Vue.js, Azure, C#",1 year(s),"BDT 40,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000043
+364,Cloud Engineer,Contract Cloud Engineer,"pandas, Docker, GCP, PyTorch",3 year(s),"BDT 15,000 - 15,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000044
+365,IT Support,Intern IT Support,"Scikit-learn, MongoDB, Jenkins, Express.js, Power BI, Ansible",1 year(s),"Tk. 50,000 - 70,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000045
+366,Product Engineer,Junior Product Engineer,"Security, Android, Kotlin, TypeScript",Fresh / 0-1 year,"BDT 10,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4315907244
+367,Machine Learning Engineer,AI Machine Learning Engineer,"Kubernetes, PyTorch, CI/CD, Spring",3 year(s),"$66,513-$141,972 USD (Annual)",https://www.linkedin.com/jobs/view/5000000047
+368,Software Engineer,Software Engineer - USA Based,"NLP, Jenkins, TypeScript, Java, Linux",6 year(s),"Tk. 15,000 - 45,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000048
+369,Full Stack Developer,Full Stack Developer - Bangladesh Based,"Vue.js, SQL, JavaScript, REST API, CSS",3 year(s),"Tk. 40,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000049
+370,Research Assistant,Research Assistant - Bangladesh Based,"REST API, Spark, JavaScript, TypeScript, Kubernetes",3 year(s),"$64,224-$124,832 per year",https://www.linkedin.com/jobs/view/5000000050
+371,QA Engineer,Lead QA Engineer,"Computer Vision, GCP, Linux, PyTorch, PostgreSQL, Spring",6 year(s),"$67,144 per year",https://www.linkedin.com/jobs/view/5000000051
+372,DevOps Engineer,DevOps Engineer (Remote),"Vue.js, Python, GCP, HTML, MySQL, Security",2 year(s),"$89,495-$117,442 USD (Annual)",https://www.linkedin.com/jobs/view/5000000052
+373,AI Researcher,Intern AI Researcher,"NumPy, Git, Computer Vision, Scikit-learn, Golang",Fresh / 0-1 year,"৳40,000 - ৳60,000 per month",https://www.linkedin.com/jobs/view/5000000053
+374,IT Support,Senior IT Support,"NLP, MySQL, NumPy",6 year(s),"৳50,000 - ৳80,000 per month",https://www.linkedin.com/jobs/view/5000000054
+375,Computer Vision Engineer,Computer Vision Engineer - Frontend,"Selenium, JavaScript, Java, SQL",3 year(s),"BDT 20,000/month",https://www.linkedin.com/jobs/view/5000000055
+376,Software Developer,Contract Software Developer,"Tableau, HTML, C#, NLP",Fresh / 0-1 year,"$75,632-$127,916 per year",https://www.linkedin.com/jobs/view/5000000056
+377,Data Analyst,Senior Data Analyst,"Hadoop, PostgreSQL, Kubernetes, Tableau",3 year(s),"$50,684-$74,108 USD (Annual)",https://www.linkedin.com/jobs/view/4332405524
+378,DevOps Engineer,DevOps Engineer - Worldwide Based,"Node.js, Bash, Express.js",9 year(s),"৳50,000 - ৳60,000 per month",https://www.linkedin.com/jobs/view/5000000058
+379,Machine Learning Engineer,Lead Machine Learning Engineer,"Ansible, Kotlin, Java, Golang",1 year(s),"Tk. 15,000 - 45,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000059
+380,IT Support,Junior IT Support,"pandas, Node.js, Laravel",Fresh / 0-1 year,"Tk. 10,000 - 10,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000060
+381,Machine Learning Engineer,Junior Machine Learning Engineer,"Selenium, Docker, Spring, Ansible, Spark",1 year(s),"Tk. 15,000 - 35,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000061
+382,Full Stack Developer,Lead Full Stack Developer,"Kubernetes, Kotlin, Selenium, C#, PyTorch, Swift",7 year(s),"$64,878-$130,464 USD (Annual)",https://www.linkedin.com/jobs/view/5000000062
+383,Data Analyst,Data Analyst (Remote),"NumPy, NLP, Kubernetes, Android",3 year(s),"Tk. 50,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000063
+384,BI Developer,Contract BI Developer,"PostgreSQL, Ansible, TensorFlow, .NET, React, pandas",8 year(s),"৳90,000 - ৳90,000 per month",https://www.linkedin.com/jobs/view/5000000064
+385,Data Analyst,Intern Data Analyst,"Computer Vision, Spring, React",1 year(s),"BDT 70,000 - 70,000 (Monthly)",https://www.linkedin.com/jobs/view/4332405524
+386,Backend Developer,Backend Developer - Europe Based,"NumPy, Spark, MySQL, Java, Tableau, Scikit-learn",2 year(s),"Tk. 30,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000066
+387,Web Developer,Web Developer - React Developer,"Java, MongoDB, GraphQL, Angular, NLP",Fresh / 0-1 year,"$72,256-$143,338 USD (Annual)",https://www.linkedin.com/jobs/view/5000000067
+388,Security Engineer,Contract Security Engineer,"NLP, Flask, TensorFlow",6 year(s),"৳50,000 - ৳80,000 per month",https://www.linkedin.com/jobs/view/5000000068
+389,Machine Learning Engineer,Machine Learning Engineer - Remote Based,"Express.js, MongoDB, Android, AWS, NumPy, NLP",3 year(s),"BDT 90,000 - 120,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000069
+390,Backend Developer,Backend Developer - Security,"JavaScript, Django, Selenium, Flask, Express.js",5 year(s),"$78,270 per year",https://www.linkedin.com/jobs/view/5000000070
+391,IT Support,Platform IT Support,"TypeScript, PHP, CSS",1 year(s),"$44,292-$94,257 USD (Annual)",https://www.linkedin.com/jobs/view/5000000071
+392,AI Researcher,AI Researcher - React Developer,"MySQL, Django, Kotlin, pandas, Selenium, Ansible",9 year(s),"৳50,000 - ৳50,000 per month",https://www.linkedin.com/jobs/view/5000000072
+393,Mobile Developer,Intern Mobile Developer,"Kubernetes, TensorFlow, .NET, NumPy, HTML",3 year(s),"$75,116-$113,175 per year",https://www.linkedin.com/jobs/view/5000000073
+394,Database Administrator,Intern Database Administrator,"Selenium, Redis, MySQL",Fresh / 0-1 year,"$71,147-$137,128 USD (Annual)",https://www.linkedin.com/jobs/view/5000000074
+395,Cloud Engineer,Lead Cloud Engineer,"Azure, Laravel, GraphQL, Spark, Scikit-learn, TypeScript",4 year(s),"$81,146-$158,808 USD (Annual)",https://www.linkedin.com/jobs/view/5000000075
+396,Research Assistant,Intern Research Assistant,"Hadoop, .NET, Kubernetes",1 year(s),"৳40,000 - ৳70,000 per month",https://www.linkedin.com/jobs/view/5000000076
+397,IT Support,IT Support - Data,"Azure, PHP, Node.js, Java",1 year(s),"$60,351-$131,189 per year",https://www.linkedin.com/jobs/view/5000000077
+398,Teaching,Teaching - Backend,"Django, Laravel, Power BI, Linux",3 year(s),"Tk. 10,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000078
+399,BI Developer,Data BI Developer,"Azure, Security, iOS",4 year(s),"৳15,000 - ৳35,000 per month",https://www.linkedin.com/jobs/view/5000000079
+400,Mobile Developer,Mobile Developer - Android Developer,"Java, Angular, C#, C++",9 year(s),"BDT 10,000/month",https://www.linkedin.com/jobs/view/5000000080
+401,Security Engineer,AI Security Engineer,"Android, Kubernetes, Bash, MongoDB, Django, CSS",10 year(s),"BDT 10,000/month",https://www.linkedin.com/jobs/view/5000000081
+402,Teaching,Teaching - Bangladesh Based,"Python, Azure, Laravel, MongoDB, Vue.js, NLP",1 year(s),"$50,500 per year",https://www.linkedin.com/jobs/view/5000000082
+403,Software Developer,Software Developer - India Based,"Security, Redis, Android, TensorFlow, Angular, Spring",3 year(s),"Tk. 50,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000083
+404,Teaching,Teaching - Python Developer,"HTML, MongoDB, SQL, Jenkins",Fresh / 0-1 year,"BDT 20,000/month",https://www.linkedin.com/jobs/view/5000000084
+405,Backend Developer,Lead Backend Developer,"GCP, Kubernetes, C#",2 year(s),"$77,381-$116,804 USD (Annual)",https://www.linkedin.com/jobs/view/5000000085
+406,Web Developer,Junior Web Developer,"Azure, GraphQL, TensorFlow",4 year(s),"Tk. 50,000 - 60,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000086
+407,Product Engineer,Lead Product Engineer,"Terraform, Bash, Power BI, MySQL",2 year(s),"BDT 70,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/4317659274
+408,IT Support,Senior IT Support,"Laravel, PHP, GraphQL, PyTorch, Kubernetes",6 year(s),"BDT 90,000/month",https://www.linkedin.com/jobs/view/5000000088
+409,Computer Vision Engineer,Computer Vision Engineer (Remote),"Git, JavaScript, Redis",9 year(s),"$79,739-$95,704 USD (Annual)",https://www.linkedin.com/jobs/view/5000000089
+410,Full Stack Developer,Contract Full Stack Developer,"Selenium, C#, Laravel",2 year(s),"$70,676-$97,966 USD (Annual)",https://www.linkedin.com/jobs/view/4337410751
+411,Data Scientist,Senior Data Scientist,"NumPy, Terraform, Security, MySQL",6 year(s),"BDT 40,000/month",https://www.linkedin.com/jobs/view/4338156913
+412,NLP Engineer,Senior NLP Engineer,"Java, JavaScript, Golang, C#",6 year(s),"Tk. 90,000 - 120,000 (Monthly)",https://www.linkedin.com/jobs/view/4321597171
+413,QA Engineer,QA Engineer - India Based,"Ansible, iOS, Terraform",2 year(s),"BDT 40,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000093
+414,Database Administrator,Database Administrator (Remote),"Tableau, NumPy, Swift, Angular",6 year(s),"BDT 15,000/month",https://www.linkedin.com/jobs/view/5000000094
+415,Data Scientist,Data Scientist - India Based,"HTML, MySQL, REST API, TypeScript, Python, Redis",11 year(s),"BDT 90,000 - 110,000 (Monthly)",https://www.linkedin.com/jobs/view/4338156913
+416,Mobile Developer,Mobile Developer (Remote),"Laravel, C#, PHP, Tableau, Azure, Vue.js",Fresh / 0-1 year,"BDT 70,000/month",https://www.linkedin.com/jobs/view/5000000096
+417,Security Engineer,Cloud Security Engineer,"Security, Kubernetes, Spark",2 year(s),"$71,223 per year",https://www.linkedin.com/jobs/view/4315216564
+418,IT Support,IT Support - Python Developer,"Flask, Spark, Redis",11 year(s),"Tk. 20,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000098
+419,Web Developer,Junior Web Developer,"Security, PHP, Hadoop, TensorFlow, PostgreSQL",3 year(s),"$73,647 per year",https://www.linkedin.com/jobs/view/5000000099
+420,Product Engineer,Intern Product Engineer,"Tableau, Spark, Django",3 year(s),"Tk. 20,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/4321694100
+421,Mobile Developer,Security Mobile Developer,"C++, C#, Vue.js, Computer Vision",8 year(s),"$46,968 per year",https://www.linkedin.com/jobs/view/5000000101
+422,Data Analyst,Data Analyst - India Based,"Terraform, TypeScript, Computer Vision, REST API, iOS, NumPy",3 year(s),"Tk. 70,000 - 90,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000102
+423,DevOps Engineer,Senior DevOps Engineer,"pandas, CSS, Java, PHP",3 year(s),"$75,296-$110,319 USD (Annual)",https://www.linkedin.com/jobs/view/4321162807
+424,Security Engineer,Junior Security Engineer,"Computer Vision, Kotlin, PyTorch, NumPy",2 year(s),"৳30,000 - ৳50,000 per month",https://www.linkedin.com/jobs/view/5000000104
+425,Data Analyst,Intern Data Analyst,"Flask, NumPy, Azure, Spark, Selenium",6 year(s),"৳100,000 - ৳600,000 per month",https://www.linkedin.com/jobs/view/5000000105
+426,Backend Developer,Backend Developer - Chittagong Based,"PyTorch, Kotlin, TensorFlow, Django, Spring",1 year(s),"BDT 90,000 - 100,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000106
+427,BI Developer,BI Developer - Python Developer,"Security, Swift, CSS, Computer Vision, Kubernetes, Power BI",1 year(s),"৳40,000 - ৳40,000 per month",https://www.linkedin.com/jobs/view/5000000107
+428,Machine Learning Engineer,Machine Learning Engineer - Worldwide Based,"PHP, C++, Git, JavaScript, Django",2 year(s),"Tk. 40,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000108
+429,Data Analyst,Data Analyst - Bangladesh Based,"Redis, Power BI, Docker, Tableau, Flask",5 year(s),"$85,228 per year",https://www.linkedin.com/jobs/view/5000000109
+430,Product Engineer,Intern Product Engineer,"Bash, Git, Flask",4 year(s),"BDT 30,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000110
+431,Cloud Engineer,Security Cloud Engineer,"Bash, Express.js, Node.js, Ansible, .NET",2 year(s),"$40,431-$82,585 per year",https://www.linkedin.com/jobs/view/5000000111
+432,Web Developer,Data Web Developer,"Java, NLP, Hadoop, GCP",4 year(s),"$67,093-$130,741 per year",https://www.linkedin.com/jobs/view/5000000112
+433,Software Engineer,Contract Software Engineer,"Vue.js, Redis, SQL",1 year(s),"BDT 70,000 - 70,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000113
+434,IT Support,Cloud IT Support,"Bash, MySQL, Hadoop",4 year(s),"$69,241 per year",https://www.linkedin.com/jobs/view/5000000114
+435,Computer Vision Engineer,Computer Vision Engineer - Platform,"Flask, CI/CD, Redis",3 year(s),"$48,257 per year",https://www.linkedin.com/jobs/view/5000000115
+436,Cloud Engineer,Junior Cloud Engineer,"Django, Power BI, CI/CD",3 year(s),"$59,919 per year",https://www.linkedin.com/jobs/view/5000000116
+437,QA Engineer,Senior QA Engineer,"PyTorch, MongoDB, Jenkins",6 year(s),"BDT 30,000/month",https://www.linkedin.com/jobs/view/5000000117
+438,Computer Vision Engineer,Cloud Computer Vision Engineer,"Bash, Tableau, Kubernetes, Scikit-learn",Fresh / 0-1 year,"$67,004-$87,744 USD (Annual)",https://www.linkedin.com/jobs/view/5000000118
+439,Security Engineer,AI Security Engineer,"Selenium, Git, Hadoop, Tableau, Azure, Laravel",6 year(s),"$85,155 per year",https://www.linkedin.com/jobs/view/5000000119
+440,Cloud Engineer,Junior Cloud Engineer,"Kotlin, C++, Scikit-learn",3 year(s),"৳50,000 - ৳50,000 per month",https://www.linkedin.com/jobs/view/5000000120
+441,Database Administrator,Database Administrator (Remote),"MongoDB, Kubernetes, PostgreSQL, NumPy, Django",4 year(s),"$67,640-$84,016 per year",https://www.linkedin.com/jobs/view/5000000121
+442,NLP Engineer,Contract NLP Engineer,"React, Terraform, Flask, GCP, pandas",6 year(s),"$64,727 per year",https://www.linkedin.com/jobs/view/5000000122
+443,Cloud Engineer,Junior Cloud Engineer,"Vue.js, Linux, GraphQL, TypeScript, GCP",2 year(s),"BDT 10,000/month",https://www.linkedin.com/jobs/view/5000000123
+444,Database Administrator,Lead Database Administrator,"Jenkins, Hadoop, .NET",3 year(s),"BDT 20,000/month",https://www.linkedin.com/jobs/view/5000000124
+445,Web Developer,Intern Web Developer,"NumPy, Terraform, Django",1 year(s),"BDT 50,000/month",https://www.linkedin.com/jobs/view/5000000125
+446,AI Researcher,Junior AI Researcher,"Tableau, Vue.js, Java, MongoDB, GCP",3 year(s),"Tk. 50,000 - 60,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000126
+447,Data Analyst,Platform Data Analyst,"AWS, Bash, Node.js, JavaScript, .NET",3 year(s),"Tk. 90,000 - 120,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000127
+448,Product Engineer,Product Engineer - Chittagong Based,"GCP, HTML, Golang",6 year(s),"BDT 15,000 - 25,000 (Monthly)",https://www.linkedin.com/jobs/view/4321694100
+449,Product Engineer,Frontend Product Engineer,"Power BI, PHP, CI/CD, TensorFlow",10 year(s),"BDT 10,000/month",https://www.linkedin.com/jobs/view/5000000129
+450,Security Engineer,Data Security Engineer,"Selenium, Security, Spark, PostgreSQL",Fresh / 0-1 year,"$76,902-$96,068 per year",https://www.linkedin.com/jobs/view/5000000130
+451,Data Scientist,Lead Data Scientist,"Swift, Redis, HTML, Laravel, NLP",5 year(s),"BDT 50,000 - 70,000 (Monthly)",https://www.linkedin.com/jobs/view/4332405524
+452,Software Engineer,Senior Software Engineer,"Swift, C#, GCP",6 year(s),"$75,266 per year",https://www.linkedin.com/jobs/view/5000000132
+453,Research Assistant,Research Assistant - Node.js Developer,"AWS, C#, Security, Tableau, Linux",3 year(s),"৳50,000 - ৳100,000 per month",https://www.linkedin.com/jobs/view/5000000133
+454,Backend Developer,Intern Backend Developer,"Linux, Android, Golang, NumPy, Kubernetes",Fresh / 0-1 year,"BDT 30,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000134
+455,Database Administrator,Contract Database Administrator,"TypeScript, Computer Vision, Jenkins, Swift",4 year(s),"BDT 20,000 - 20,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000135
+456,Cloud Engineer,Contract Cloud Engineer,"Swift, Git, Scikit-learn, Python, TensorFlow",3 year(s),"$61,168-$127,862 per year",https://www.linkedin.com/jobs/view/5000000136
+457,Security Engineer,Senior Security Engineer,"GCP, CI/CD, PyTorch, SQL, Python",6 year(s),"৳100,000 - ৳200,000 per month",https://www.linkedin.com/jobs/view/5000000137
+458,Machine Learning Engineer,Machine Learning Engineer (Remote),"pandas, TensorFlow, Linux",Fresh / 0-1 year,"$61,908-$104,729 USD (Annual)",https://www.linkedin.com/jobs/view/5000000138
+459,Mobile Developer,Mobile Developer (Remote),"NLP, Angular, HTML, PyTorch, Selenium, Node.js",Fresh / 0-1 year,"BDT 10,000/month",https://www.linkedin.com/jobs/view/5000000139
+460,Product Engineer,Product Engineer (Remote),"Swift, JavaScript, Git",Fresh / 0-1 year,"$66,324 per year",https://www.linkedin.com/jobs/view/4321694100
+461,Product Engineer,Intern Product Engineer,"Redis, CSS, Swift",0.6 year(s),"Tk. 30,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4315212392
+462,Database Administrator,AI Database Administrator,"pandas, iOS, GraphQL, PyTorch, C#, PHP",1 year(s),"BDT 40,000/month",https://www.linkedin.com/jobs/view/5000000142
+463,Data Scientist,Data Scientist - Security,"Python, Hadoop, Selenium, TypeScript, Swift",1 year(s),"BDT 10,000/month",https://www.linkedin.com/jobs/view/5000000143
+464,Web Developer,Web Developer - India Based,"Ansible, Selenium, Jenkins, Redis, GraphQL",2 year(s),"৳90,000 - ৳90,000 per month",https://www.linkedin.com/jobs/view/5000000144
+465,Computer Vision Engineer,Lead Computer Vision Engineer,"Computer Vision, Tableau, Bash, Redis, Linux, Terraform",2 year(s),"Tk. 10,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000145
+466,AI Researcher,AI Researcher - USA Based,"HTML, Selenium, NLP, Kubernetes",Fresh / 0-1 year,"BDT 30,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000146
+467,Mobile Developer,Lead Mobile Developer,"C#, Security, Laravel",6 year(s),"$48,994 per year",https://www.linkedin.com/jobs/view/5000000147
+468,Full Stack Developer,Security Full Stack Developer,"Hadoop, Linux, GraphQL, TensorFlow",6 year(s),"BDT 20,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000148
+469,Mobile Developer,Intern Mobile Developer,"Ansible, CI/CD, PostgreSQL, Power BI",1 year(s),"৳40,000 - ৳50,000 per month",https://www.linkedin.com/jobs/view/5000000149
+470,Security Engineer,Contract Security Engineer,"NumPy, Hadoop, Scikit-learn, C#, SQL",6 year(s),"$72,426-$144,522 per year",https://www.linkedin.com/jobs/view/5000000150
+471,DevOps Engineer,Lead DevOps Engineer,"C++, MongoDB, TensorFlow, AWS, Jenkins, Spring",8 year(s),"Tk. 15,000 - 25,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000151
+472,Frontend Developer,Frontend Developer - iOS Developer,"Scikit-learn, TensorFlow, GCP, Kubernetes, Linux, NumPy",2 year(s),"BDT 90,000/month",https://www.linkedin.com/jobs/view/5000000152
+473,Full Stack Developer,Lead Full Stack Developer,"Node.js, React, Kubernetes",Fresh / 0-1 year,"BDT 30,000/month",https://www.linkedin.com/jobs/view/4318542882
+474,DevOps Engineer,DevOps Engineer - Mobile,"Bash, Docker, Power BI, Azure, Selenium",3 year(s),"BDT 20,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000154
+475,Security Engineer,AI Security Engineer,"SQL, Ansible, .NET",3 year(s),"Tk. 90,000 - 120,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000155
+476,Full Stack Developer,Backend Full Stack Developer,"GCP, TensorFlow, Swift, NLP",3 year(s),"Tk. 50,000 - 50,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000156
+477,Database Administrator,Database Administrator - Android Developer,"CI/CD, AWS, .NET",2 year(s),"Tk. 90,000 - 110,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000157
+478,Software Developer,Lead Software Developer,"AWS, PostgreSQL, C++",3 year(s),"BDT 90,000/month",https://www.linkedin.com/jobs/view/4318542882
+479,Mobile Developer,Mobile Developer (Remote),"CI/CD, GCP, pandas, Computer Vision",Fresh / 0-1 year,"$53,531-$80,561 USD (Annual)",https://www.linkedin.com/jobs/view/5000000159
+480,Machine Learning Engineer,Machine Learning Engineer - Data,"Python, Java, PyTorch, React",4 year(s),"৳90,000 - ৳120,000 per month",https://www.linkedin.com/jobs/view/5000000160
+481,Full Stack Developer,Full Stack Developer - Flutter Developer,"GCP, PHP, C#, GraphQL",6 year(s),"৳20,000 - ৳20,000 per month",https://www.linkedin.com/jobs/view/4337410751
+482,Backend Developer,Lead Backend Developer,"GCP, NLP, Git, Node.js, Kubernetes, React",5 year(s),"BDT 20,000 - 40,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000162
+483,Software Engineer,Frontend Software Engineer,"Ansible, .NET, Azure, Flask, Python, Laravel",1 year(s),"৳90,000 - ৳120,000 per month",https://www.linkedin.com/jobs/view/5000000163
+484,Computer Vision Engineer,Computer Vision Engineer - Security,"Spring, Security, Django, REST API",2 year(s),"Tk. 40,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000164
+485,Data Scientist,Lead Data Scientist,"Swift, CI/CD, C++",1 year(s),"$74,267-$97,740 per year",https://www.linkedin.com/jobs/view/5000000165
+486,BI Developer,Lead BI Developer,"Kubernetes, PHP, .NET, Vue.js",Fresh / 0-1 year,"BDT 10,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000166
+487,Research Assistant,Research Assistant - Python Developer,"Bash, SQL, Git",4 year(s),"$65,890-$131,973 USD (Annual)",https://www.linkedin.com/jobs/view/5000000167
+488,QA Engineer,QA Engineer - Python Developer,"Python, AWS, C++, Scikit-learn, Golang",Fresh / 0-1 year,"$82,594-$140,956 USD (Annual)",https://www.linkedin.com/jobs/view/5000000168
+489,Full Stack Developer,Full Stack Developer - Security,"REST API, SQL, HTML",4 year(s),"Tk. 50,000 - 80,000 (Monthly)",https://www.linkedin.com/jobs/view/4318542882
+490,Systems Administrator,Lead Systems Administrator,"GraphQL, NLP, Node.js",3 year(s),"Tk. 30,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000170
+491,Full Stack Developer,Lead Full Stack Developer,"PHP, iOS, REST API",9 year(s),"$61,541-$89,139 per year",https://www.linkedin.com/jobs/view/5000000171
+492,Cloud Engineer,Lead Cloud Engineer,"Redis, PHP, C++, CI/CD, JavaScript",11 year(s),"$85,046 per year",https://www.linkedin.com/jobs/view/4337410751
+493,Machine Learning Engineer,Machine Learning Engineer - Chittagong Based,".NET, JavaScript, HTML",7 year(s),"BDT 20,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/5000000173
+494,NLP Engineer,Lead NLP Engineer,"TensorFlow, C#, REST API, PHP",3 year(s),"৳30,000 - ৳50,000 per month",https://www.linkedin.com/jobs/view/5000000174
+495,Systems Administrator,Systems Administrator - iOS Developer,"NLP, Java, Bash, Power BI, pandas, Django",6 year(s),"$89,732 per year",https://www.linkedin.com/jobs/view/5000000175
+496,Backend Developer,Backend Developer - USA Based,"AWS, Git, REST API, pandas, React",3 year(s),"Tk. 20,000 - 30,000 (Monthly)",https://www.linkedin.com/jobs/view/4318542882
+497,Security Engineer,Cloud Security Engineer,"NumPy, MongoDB, CSS, Selenium, React, GCP",6 year(s),"৳20,000 - ৳30,000 per month",https://www.linkedin.com/jobs/view/4315216564
+498,Cloud Engineer,Cloud Engineer - Flutter Developer,"Computer Vision, PHP, Ansible, pandas, Flask, Kubernetes",3 year(s),"৳20,000 - ৳40,000 per month",https://www.linkedin.com/jobs/view/5000000178
+499,BI Developer,BI Developer (Remote),"Azure, Android, Selenium, Vue.js, Hadoop, .NET",7 year(s),"$56,572 per year",https://www.linkedin.com/jobs/view/5000000179
+500,Database Administrator,Database Administrator (Remote),"Bash, Java, MySQL, Computer Vision, C++",4 year(s),"৳100,000 - ৳200,000 per month",https://www.linkedin.com/jobs/view/5000000180
