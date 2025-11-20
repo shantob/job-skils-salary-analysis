@@ -1,7 +1,7 @@
 pandas
-scikit-learn
+numpy
 matplotlib
+seaborn
 nltk
-regex
-jupyterlab
+scikit-learn
 wordcloud

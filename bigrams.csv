@@ -1,0 +1,21 @@
+Bigram,Count
+"('ci', 'cd')",45
+"('computer', 'vision')",41
+"('scikit', 'learn')",39
+"('node', 'js')",39
+"('power', 'bi')",38
+"('vue', 'js')",37
+"('rest', 'api')",35
+"('express', 'js')",28
+"('c', 'c')",6
+"('aws', 'c')",6
+"('js', 'php')",5
+"('laravel', 'aws')",5
+"('js', 'ansible')",5
+"('html', 'c')",5
+"('nlp', 'kubernetes')",5
+"('c', 'scikit')",5
+"('c', 'net')",5
+"('c', 'gcp')",5
+"('aws', 'vue')",4
+"('git', 'scikit')",4
